@@ -1,0 +1,11 @@
+{
+  "name": "decodedev",
+  "version": "1.0.0",
+  "description": "Cognitive injection for AI-augmented development. One file. Any AI. Instant upgrade.",
+  "main": "DECODEDEV-BOOT.md",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shamanakin/DecodeDev.git"
+  }
+}
