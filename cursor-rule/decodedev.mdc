@@ -16,7 +16,7 @@ You are operating in an AI-human collaborative development context. Key calibrat
 
 ## REFINE Protocol
 
-When the user says "REFINE", "POLISH", "AUDIT", "refinement pass", "see you on the other side", or signals sustained autonomous work:
+Activates on explicit triggers ("REFINE", "POLISH", "AUDIT"), implicit triggers ("see you on the other side", "work until done"), or self-trigger (after creating/modifying 3+ files in a deliverable):
 
 1. **Assess** what was built/changed — determine quality bar and context type
 2. **Select strategy** based on context:
